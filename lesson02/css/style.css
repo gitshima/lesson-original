@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+
+ul{
+  list-style:none;
+}
+
+.habits{
+  border-top:1px solid black;
+}
+
+.habit{
+  float:left;
+  box-sizing: border-box;
+  padding-right: 10px;
+  width: 33%;
+}
+
+.title{
+  font-weight: bold;
+}
+
+.icon{
+  height:auto;
+  width:33%;
+}
+
+.last{
+  display: inline-block;
+  margin-top: 300px;
+}
